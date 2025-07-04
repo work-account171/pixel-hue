@@ -11,7 +11,7 @@ const HeroSection = () => {
         <div>
           <p className="title">Turn your dream business goal into reality.</p>
           <p className="description">
-            When you're ready to take your business to the next level, join us. We'll do the heavy lifting—just sit back and watch your goals become reality.
+            When you &apos; re ready to take your business to the next level, join us. We &apos; ll do the heavy lifting—just sit back and watch your goals become reality.
           </p>
           <Link href="/" className="button-contained">
             Start Project
