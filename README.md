@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sys113/creative-agency/main/screenshot.png" style="border-radius:50%">
@@ -23,3 +24,7 @@
 * *[email](mailto:051.SYS113@gmail.com)*
 * *[telegram](https://t.me/SYS113/)*
 * *[instagram](https://instagram.com/sys113/)*
+=======
+# pixel-hue
+Pixel &amp; hue, a well structured designed layout containing 4 -5 sections, built with the help of Next.Js and SCSS for styling
+>>>>>>> 92023183f83406a80e9393320f37a16e34a6ea03
